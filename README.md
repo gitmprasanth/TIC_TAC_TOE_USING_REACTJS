@@ -23,6 +23,6 @@ A simple Tic-Tac-Toe game built with React.js, utilizing `useState` for managing
 ![Alttext](public/s1.png)
 ![Alttxt](public/s2.jpeg)
 
-<img src="./public/s2.jpeg" width=600 height=350>
+<img src="./public/s2.jpeg" width=350 height=600>
 
 
