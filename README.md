@@ -1,12 +1,26 @@
-# React + Vite
+# Tic-Tac-Toe Game 🎲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Tic-Tac-Toe game built with React.js, utilizing `useState` for managing the game state and `useRef` for direct DOM manipulation.
 
-Currently, two official plugins are available:
+## Features ✨
+- Interactive 3x3 grid for gameplay.
+- Displays winner or draw status dynamically.
+- Reset button to restart the game.
+- Uses React Hooks (`useState` & `useRef`) for state management and DOM handling.
+- Fully responsive UI with a modern design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used 🛠️
+- React.js (Functional Components)
+- JavaScript (ES6)
+- HTML5 & CSS3
+- State management using `useState`
+- DOM access using `useRef`
 
-## Expanding the ESLint configuration
+### Screenshots 
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#### Responsive for both Desktop and Mobile view
+
+![Alttext](public/s1.png)
+![Alttxt](public/s2.jpeg)
+
+

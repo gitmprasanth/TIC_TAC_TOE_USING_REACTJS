@@ -5,7 +5,7 @@
 .title{
     margin-top: 30px;
     color: white;
-    font-size: 50px;
+    font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -82,7 +82,7 @@
     .reset{
         width: 110px;
         height: 50px;
-        font-size: 16px;
+        font-size: 17px;
     }
     .boxes img{
         margin: 10px;
