@@ -18,11 +18,11 @@ A simple Tic-Tac-Toe game built with React.js, utilizing `useState` for managing
 
 ### Screenshots 
 
-#### Responsive for both Desktop view
+#### Responsive Desktop view
 
 ![Alttext](public/s1.png)
 
-#### Responsive for both Mobile view
+#### Responsive Mobile view
 
 <img src="./public/s2.jpeg" width=350 height=600>
 
